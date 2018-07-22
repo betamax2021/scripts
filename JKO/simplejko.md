@@ -10,4 +10,8 @@
 
 <p><br /></p>
 
+Lessons
 <code>API_1484_11.SetValue('cmi.completion_status','completed');if (document.getElementsByName("courseheader").item(0).contentDocument.getElementById("c")){document.getElementsByName("courseheader").item(0).contentDocument.getElementById("c").submit()};</code>
+
+Tests
+<code>API_1484_11.SetValue('cmi.success_status','passed');if (document.getElementsByName("courseheader").item(0).contentDocument.getElementById("c")){document.getElementsByName("courseheader").item(0).contentDocument.getElementById("c").submit()};</code>
